@@ -1,4 +1,4 @@
-
+#Homework 2 - A simple program that prompts the user for DOB, compares with current date to determine ticket price with/without $1 coupon
 
 ''' Assignment 2 - Conditionals
 	Edward Joseph
