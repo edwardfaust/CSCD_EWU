@@ -42,6 +42,12 @@ while (dateValid == False):
 			dateValid = True
 		else:
 			print("Invalid date!")
+			
+	if userMo == '02':
+		if 1 <= userDay <= 28:
+			dateValid = True
+		else:
+			print("Invalid date!")
 
 	else:
 		if 1 <= userDay <= 28:
